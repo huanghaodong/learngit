@@ -79,4 +79,4 @@ const styles = StyleSheet.create({
   }
 })
 AppRegistry.registerComponent('deleteMe', () => deleteMe);
-ny地方5555555555
+ny地方5555555555aSasasasasfdsf sdf dsf sdf sd f如果奋斗过的 
