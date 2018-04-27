@@ -79,3 +79,4 @@ const styles = StyleSheet.create({
   }
 })
 AppRegistry.registerComponent('deleteMe', () => deleteMe);
+ny地方5555555555
